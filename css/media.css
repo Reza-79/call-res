@@ -1,0 +1,866 @@
+@media(max-width:1399px) {
+    .header {
+        background: url(../Images/hero-responsive.png);
+        background-repeat: no-repeat;
+        background-size: 76%;
+        background-position: top right;
+    }
+
+    .herog-res {
+        display: block;
+        position: relative;
+    }
+
+    .herog_image {
+        display: block;
+        position: absolute;
+        left: -170px;
+        top: 5%;
+    }
+
+    .about_img img {
+        left: 5%;
+
+    }
+
+
+
+    .get_image img {
+        left: 0;
+    }
+
+    .footer_graphic img {
+        left: -50px;
+    }
+
+    .footer {
+        background-size: 79%;
+    }
+
+    .fleft p {
+        margin-top: 20px;
+    }
+
+    .footer_contacts {
+        padding-bottom: 20px;
+    }
+
+    .contact h2 {
+        margin: 0;
+    }
+
+    .privacy a {
+
+        padding-right: 60px;
+
+    }
+}
+
+@media(max-width:1199px) {
+
+    .header {
+        background: url(../Images/hero-responsive.png);
+        background-repeat: no-repeat;
+        background-size: 76%;
+        background-position: top right;
+    }
+
+    .herog-res {
+        display: block;
+        position: relative;
+    }
+
+    .herog_image {
+        display: block;
+        position: absolute;
+        left: -170px;
+        top: 30%;
+    }
+
+    .about_img img {
+        left: 5%;
+
+    }
+
+
+
+    .get_image img {
+        left: 0;
+    }
+
+    .footer_graphic img {
+        left: -50px;
+    }
+
+    .footer {
+        background-size: 79%;
+    }
+
+    .fleft p {
+        margin-top: 20px;
+    }
+
+    .footer_contacts {
+        padding-bottom: 20px;
+    }
+
+    .contact h2 {
+        margin: 0;
+    }
+
+    .privacy a {
+
+        padding-right: 60px;
+
+    }
+}
+
+@media(max-width:991px) {
+    .header {
+        background: url(../Images/hero-responsive.png);
+        background-repeat: no-repeat;
+        background-size: 57%;
+        background-position: top right;
+    }
+    .herog_image img {
+        margin-top: -265px;
+        width: 75%;
+        margin-left: 26%;
+    }
+
+    .navbar-brand {
+        width: 70%;
+    }
+
+    .nav-item {
+        background-color: #0961b1;
+        margin-bottom: 10px;
+        border-radius: 50px;
+        margin-top: 10px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        margin: 0;
+    }
+
+    .banner_content h1 {
+        font-size: 50px;
+    }
+
+    .banner_content h1 span {
+        font-size: 50px;
+    }
+
+    .banner_content h5 {
+        margin-top: 20px;
+        font-size: 19px;
+    }
+
+    .herog-res {
+        display: block;
+        position: relative;
+    }
+
+   
+
+    .about_img {
+        width: 130%;
+    }
+
+    .about_img img {
+
+        left: -5%;
+
+        top: 0;
+
+    }
+
+    .about_content {
+        margin-top: 57%;
+    }
+
+    .about_content span {
+
+        font-size: 50px;
+
+    }
+
+    .about_content h1 {
+        font-size: 50px;
+    }
+
+    .about_content p {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .about_chart {
+        margin-top: 100px;
+    }
+
+    .chart_icon ul li p {
+
+        font-size: 20px;
+
+        margin-left: 0;
+
+    }
+
+    .chart_content p {
+
+        font-size: 18px;
+    }
+
+    .get_chart {
+        width: 100%;
+    }
+
+    .get_chart2 {
+        width: 100%;
+    }
+
+    .get_image {
+
+        width: 111%;
+
+        bottom: -25%;
+
+        left: -92px;
+
+    }
+
+    .get_button {
+        margin-top: 60px;
+    }
+
+    .pro_icon {
+        margin-top: -50px;
+    }
+
+    .chart_list {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .chart_list h5 {
+        text-align: left;
+    }
+
+    .serve_content {
+
+        padding: 10px;
+
+    }
+
+    .serve_content h2 {
+
+        font-size: 22px;
+
+    }
+
+    .option ul li p {
+
+        font-size: 16px;
+    }
+
+
+    .serve_button {
+        margin: 0;
+    }
+
+    .footer_graphic {}
+
+    .footer_graphic img {
+
+        position: absolute;
+
+        left: -54px;
+
+        top: 126px;
+
+        width: 124%;
+
+    }
+
+    .social_links ul li a p {
+        font-size: 16px;
+    }
+
+    .privacy {
+        margin-bottom: 20px;
+    }
+
+    .fleft p {
+        margin-top: 65px;
+    }
+
+    .footer {
+        background-size: 75%;
+    }
+
+}
+
+@media(max-width:767px) {
+
+
+    .header {
+        background: url(../Images/hero-responsive.png);
+        background-repeat: no-repeat;
+        background-size: 57%;
+        background-position: top right;
+    }
+
+    .navbar-brand {
+        width: 70%;
+    }
+
+    .nav-item {
+        background-color: #0961b1;
+        margin-bottom: 10px;
+        border-radius: 50px;
+        margin-top: 10px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        margin: 0;
+    }
+
+    .banner_content h1 {
+        font-size: 50px;
+    }
+
+    .banner_content h1 span {
+        font-size: 50px;
+    }
+
+    .banner_content h5 {
+        margin-top: 20px;
+    }
+
+    .quote_button {
+
+        margin-top: 30px;
+    }
+
+    .banner_content {
+        margin-top: 50px;
+    }
+
+    .herog-res {
+        display: block;
+        position: relative;
+    }
+
+    .herog_image {
+
+position: absolute;
+
+left: 67px;
+
+top: 1px;
+
+width: 90%;
+
+}
+
+    .about_img {
+        position: relative;
+    }
+
+    .about_img img {
+
+position: absolute;
+
+left: -20px;
+
+top: 12px;
+
+width: 54%;
+
+}
+
+    .about_content {
+        margin-top: 57%;
+    }
+
+    .about_content span {
+
+        font-size: 40px;
+
+    }
+
+    .about_content h1 {
+        font-size: 40px;
+    }
+
+    .about_content p {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .about_chart {
+        margin-top: 80px;
+    }
+
+    .chart2 {
+        margin-top: 30px;
+    }
+
+    .chart_content p {
+        font-size: 16px;
+    }
+
+
+    .get_text h5 {
+        font-size: 16px;
+    }
+
+    .get_image {
+        display: none;
+    }
+
+    .get_button {
+
+        margin-top: 50px;
+    }
+
+    .process-responsive {
+        margin-bottom: 60px;
+    }
+
+    .chart_list h5 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .chart_list {
+        padding: 50px;
+    }
+
+    .serve {
+        margin-top: 40px;
+    }
+
+    .option ul li p {
+        font-size: 16px;
+    }
+
+    .serve_content h2 {
+        font-size: 22px;
+    }
+
+    .serve-response {
+        margin-top: 25px;
+    }
+    .FAQ{
+        margin-top: 80px;
+    }
+    .footer {
+        padding-top: 100px;
+        background-size: 77%;
+    }
+
+    .footer_graphic img {
+
+        left: 43%;
+
+        top: -142px;
+
+        width: 71%;
+
+    }
+
+
+    .social_links {
+        margin-top: 40px;
+    }
+
+    .contact h2 {
+
+        margin-top: 20px;
+
+    }
+
+    .fbutton {
+
+        margin-top: 10px;
+
+    }
+
+    .privacy {
+
+        margin-bottom: 30px;
+
+        margin-top: 10px;
+    }
+
+    #back-to-top {
+        right: 20px;
+    }
+
+    .privacy a {
+        padding-right: 0;
+    }
+
+    .fleft p {
+        margin-top: 30px;
+    }
+
+}
+
+@media(max-width:575px) {
+    .header {
+        background: url(../Images/hero-responsive.png);
+        background-position: top right;
+        background-repeat: no-repeat;
+        background-size: 70%;
+    }
+
+    .navbar-brand {
+        width: 70%;
+    }
+
+    .nav-item {
+        background-color: #0961b1;
+        margin-bottom: 10px;
+        border-radius: 50px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        margin: 0;
+    }
+
+    .herog_image {
+
+position: absolute;
+
+left: 60px;
+
+top: -60px;
+
+width: 85%;
+
+}
+
+    .banner_content {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .banner_content h1 {
+        font-size: 40px;
+    }
+
+    .banner_content h1 span {
+        font-size: 40px;
+    }
+
+    .banner_content h5 {
+        font-size: 16px;
+    }
+
+    .quote_button {
+
+        margin-top: 30px;
+    }
+
+    .quote_button p {
+        font-size: 16px;
+    }
+
+    .quote_icon i {
+        font-size: 16px;
+    }
+
+    .herog-res {
+        display: block;
+        margin-top: 80px;
+    }
+
+    .about_img {
+        display: none;
+    }
+
+    .about_content {
+
+        margin-top: 60px;
+
+        text-align: center;
+
+    }
+
+    .about_content h1 {
+
+        font-size: 40px;
+
+    }
+
+    .about_content h1 span {
+
+        font-size: 40px;
+
+    }
+
+    .about_content p {
+
+        font-size: 16px;
+
+        margin-top: 15px;
+
+    }
+
+    .about_chart {
+        margin-top: 60px;
+        padding: 0px 20px;
+    }
+
+    .chart {
+
+        padding: 30px;
+
+    }
+
+    .chart_icon ul li p {
+
+        font-size: 16px;
+
+        margin-left: 0px;
+
+    }
+
+
+    .chart_content p {
+
+        font-size: 16px;
+
+        padding-left: 15px;
+    }
+
+    .chart2 {
+        margin-top: 30px;
+    }
+
+    .get_started {
+        margin-top: 80px;
+        min-height: 90vh;
+    }
+
+    .get_chart {
+
+        width: 100%;
+
+        padding: 20px;
+
+    }
+
+    .get_content {
+
+        margin-top: 60px;
+
+        padding: 0px 20px;
+    }
+
+
+    .get_text {
+
+        margin-left: 10px;
+    }
+
+    .get_text p {
+        font-size: 16px;
+    }
+
+    .get_text h5 {
+        font-size: 16px;
+    }
+
+    .get_chart2 {
+        width: 100%;
+
+        padding: 20px;
+    }
+
+    .get_image img {
+        display: none;
+    }
+
+    .get_button {
+        margin-top: 50px;
+    }
+
+    .process {
+        margin-top: 0px;
+    }
+
+    .process-responsive {
+        margin-bottom: 60px;
+    }
+
+    .chart_list h5 {
+        font-size: 15px;
+    }
+
+    .serve {
+        margin-top: 30px;
+    }
+
+    .serve_list {
+
+        margin-top: 60px;
+
+        padding: 0px 20px;
+
+    }
+
+    .serve_content {
+        text-align: left;
+    }
+
+    .option ul li p {
+        font-size: 16px;
+    }
+
+    .serve-response {
+        margin-bottom: 40px;
+    }
+
+    .serve_button {
+        margin-top: 0px;
+    }
+
+    .FAQ {
+        margin-top: 80px;
+    }
+
+    .question {
+        margin-top: 60px;
+    }
+
+    .accordion-button p {
+
+        font-size: 16px;
+
+    }
+
+    .footer {
+
+        background-size: 100%;
+
+        padding-top: 40px;
+
+    }
+
+    .footer_graphic img {
+        display: none;
+    }
+
+    .social_links {
+        margin-top: 50px;
+        margin-left: 140px;
+    }
+
+    .social_links ul li a p {
+        font-size: 13px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 40%;
+    }
+
+    .fright {
+
+        margin-top: 34px;
+    }
+
+    .contact h2 {
+
+        font-size: 17px;
+
+        margin-bottom: 10px;
+
+        text-align: center;
+
+    }
+
+    .fbutton {
+
+        text-align: center;
+
+    }
+
+    .footer_contacts {
+        margin-top: 40px;
+    }
+
+    .fleft p {
+        text-align: center;
+    }
+
+    .privacy {
+        text-align: center;
+    }
+
+    /* back to top */
+    #back-to-top {
+        width: 40px;
+        height: 40px;
+    }
+
+    #back-to-top svg {
+        margin: 9px auto 0;
+    }
+}
+
+@media(max-width:320px) {
+
+    .herog_image img {
+        margin-top: -7px;
+        width: 80%;
+        margin-left: -5%;
+    }
+    .get_started {
+        margin-top: 80px;
+    }
+
+    .serve_content {
+        text-align: center;
+    }
+
+    .process {
+        margin-top: 80px;
+    }
+
+    .social_links {
+        margin-top: 50px;
+        margin-left: 0;
+    }
+
+    .footer_contacts {
+        margin-top: 80px;
+    }
+
+    .privacy {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .footer {
+        background-size: 180%;
+        background-position: right bottom;
+    }
+    .about_content {
+        margin-top: 88px;
+        text-align: center;
+    }
+    
+    .quote_button {
+        margin-top: 20px;
+    }
+}
